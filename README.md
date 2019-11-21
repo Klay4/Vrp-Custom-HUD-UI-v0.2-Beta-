@@ -1,4 +1,6 @@
 # Vrp Custom HUD UI | v0.2 Beta
+# Updates
+Version 1.0 is coming
 
 # Info
 In the hud you can see:
@@ -15,6 +17,9 @@ In the hud you can see:
 3) Put display.lua in resources\vrp_job_display\cfg
 4) Donwload https://github.com/Sighmir/FiveM-Scripts/tree/master/vrp/vrp_voice_display and put it in your resources folder, than type "start vrp_voice_display" in the server.cfg 
 5) Put display.lua in resources\vrp_voice_display\cfg
+
+# Relase on FiveM Forum
+http://forum.fivem.net/t/release-vrp-custom-hud-ui-v0-2-beta/
 
 # Copyright
 Don't sell and re-post this resource.
