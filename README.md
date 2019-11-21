@@ -1,5 +1,5 @@
 # Vrp Custom HUD UI | v0.2 Beta
-That's a simple vrp hud.
+That's a simple Hud for VRP framework.
 
 # Updates
 Version 1.0 is coming
@@ -15,9 +15,9 @@ In the hud you can see:
 # Installation:
 
 1) Put money.lua in resources\vrp\cfg
-2) Donwload https://forum.fivem.net/t/vrp-job-icons-for-vrp-jobs/120307 and put it in your resources folder, than type "start vrp_job_display" in the server.cfg
+2) Download https://forum.fivem.net/t/vrp-job-icons-for-vrp-jobs/120307 and put it in your resources folder, than type "start vrp_job_display" in the server.cfg
 3) Put display.lua in resources\vrp_job_display\cfg
-4) Donwload https://github.com/Sighmir/FiveM-Scripts/tree/master/vrp/vrp_voice_display and put it in your resources folder, than type "start vrp_voice_display" in the server.cfg 
+4) Download https://github.com/Sighmir/FiveM-Scripts/tree/master/vrp/vrp_voice_display and put it in your resources folder, than type "start vrp_voice_display" in the server.cfg 
 5) Put display.lua in resources\vrp_voice_display\cfg
 
 # Relase on FiveM Forum
