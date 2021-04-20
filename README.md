@@ -1,3 +1,6 @@
+# WARNING: This repository is no longer maintained ⚠️
+> This repository will not be updated.
+
 # Vrp Custom HUD UI | v0.2 Beta
 That's a simple Hud for VRP framework.
 
